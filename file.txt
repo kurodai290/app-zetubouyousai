@@ -1,0 +1,19 @@
+zetsubou-warehouse/
+├─ index.html
+├─ admin.html
+├─ css/
+│  └─ style.css
+├─ js/
+│  ├─ app.js
+│  ├─ admin.js
+│  ├─ storage.js
+│  ├─ ui.js
+│  └─ games/
+│     ├─ reflex.js
+│     ├─ memory.js
+│     ├─ maze.js
+│     ├─ timing.js
+│     └─ physics.js
+├─ data/
+│  └─ config.default.js
+└─ README.md
